@@ -1,0 +1,15 @@
+{
+  "name": "konvergo-erp-docs-images",
+  "version": "0.1.0",
+  "description": "Konvergo ERP documentation images",
+  "scripts": {
+    "build": "vite build",
+    "build:w": "yarn build -w",
+    "test": "echo 'echo'",
+    "prepare": "husky"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
+}
